@@ -1,5 +1,5 @@
 # CHALLENGE ALURAGEEK
-# ALURA GEEK - CHARLY ART
+# ALURA GEEK - GALERIA DE ARTE
 
 Este proyecto responde al desafío propuesto el el curso de Front End 
 del Programa Oracle One Next Education con Alura Latam - ONE G6
@@ -37,43 +37,6 @@ CSS3:
 HTML5:
 
 -- Para la estructura del archivo index.html
-
-
-## URL del Proyecto Desplegado
-
-Puedes acceder al proyecto desplegado en el siguiente enlace:
-[Proyecto Desplegado](https://soniaveit.github.io/CharlyGeek/)
-
-Puedes acceder al proyecto desplegado de la API, en Vercel, en el siguiente enlace:
-[Proy. Api Desplegado](https://alura-geek-api-delta.vercel.app)
-
-## Video de YouTube
-
-Mira el video demostrativo del proyecto en YouTube:
-[Video en YouTube](https://youtu.be/8BUBbxhX5Gg)
-
-Aquí hay una imagen del proyecto:
-
-![Descripción de la Imagen](https://github.com/soniaveit/CharlyGeek/blob/master/img/AluraGeek-CharlyArt.png)
-
-## Cómo Ejecutar el Proyecto Localmente
-
-1. Clona el repositorio:
-    ```bash
-    git clone https://github.com/soniaveit/CharlyGeek.git
-    ```
-2. Navega al directorio del proyecto:
-    ```bash
-    cd CharlyGeek
-    ```
-3. Instala las dependencias:
-    ```bash
-    npm install
-    ```
-4. Inicia el servidor de desarrollo:
-    ```bash
-    npm start
-    ```
 
 ## Agradecimiento
 
